@@ -18,3 +18,5 @@ To predict the expression of the given image as:
  - Data Augmentation
  - Prediction using transfer learning(EfficientNetB2)
 
+### Future Work
+The above model can be further used for real time face expression prediction using OpenCV library.
